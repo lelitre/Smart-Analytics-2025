@@ -16,6 +16,12 @@ Power BI | DAX | M Language
 ### 📊 Data source
 Public dataset included in the folder.
 
+
+
+PBI report can be shared privately upon request to see all the work I have done. I didn't want to publicly share it here to prevent the copy and reouse without permission.
+
+
+
 ---
 
 © 2025 **Manuel La Chica (Manu)**  
